@@ -11,16 +11,21 @@ This repository demonstrates the integration of Cypress with the Cucumber-prepro
 * [Cypress Step Definitions](#Cypress-Step-Definitions)
 * [Feature Files](#Feature-Files)
 * [Contributing](#contributing)
-* 
 * [Final Words](#final-words)
 * [License](#license)
 
 ## Installation
 
 git clone https://github.com/gohan-1/cyrpass.git/
+
 cd cyrass
 
 ## Folder Structure
+
+# Project Directory Structure
+
+cypress-cucumber-authentication/
+```plaintext
 cypress-cucumber-authentication/
 ├── cypress/
 │   ├── integration/
@@ -31,6 +36,8 @@ cypress-cucumber-authentication/
 │
 ├── package.json
 └── README.md
+```
+
 
 
 
