@@ -8,10 +8,7 @@ This repository demonstrates the integration of Cypress with the Cucumber-prepro
 * [Installation](#Installation)
 * [Folder Structure](#Folder-Structure)
 * [Running Tests](#Running-Tests)
-* [Cypress Step Definitions](#Cypress-Step-Definitions)
-* [Feature Files](#Feature-Files)
 * [Contributing](#contributing)
-* [Final Words](#final-words)
 * [License](#license)
 
 ## Installation
@@ -20,9 +17,9 @@ git clone https://github.com/gohan-1/cyrpass.git/
 
 cd cyrass
 
-## Folder Structure
+# Folder Structure
 
-# Project Directory Structure
+## Project Directory Structure
 
 cypress-cucumber-authentication/
 ```plaintext
@@ -41,23 +38,23 @@ cypress-cucumber-authentication/
 
 
 
-## Running Tests
+# Running Tests
 
  To run the Cypress tests with Cucumber:
 
-# Open Cypress Test Runner:
+## Open Cypress Test Runner:
 
  npx cypress open
 
-# Run tests headlessly:
+## Run tests headlessly:
  npx cypress run
 
-## Contributing
+# Contributing
 Feel free to submit issues, fork the repository and send pull requests!
 
 
 
-## License
+# License
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2019 © <a href="https://izemspot.netlify.com" target="_blank">IZEMSPOT</a>.
